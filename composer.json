@@ -1,0 +1,18 @@
+{
+    "name": "danielh-official/leetcode",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Haven",
+            "email": "49914607+danielh-official@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
